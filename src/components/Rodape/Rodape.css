@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Overpass:wght@400;700&display=swap');
+
+.rodape{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #6278F7;
+    background-image: url('../../../public/imagens/fundo.png');
+    height: 15vh;
+    flex-grow: 0;
+}
+
+#social-media{
+    list-style: none;
+    display: flex;
+    width: 220px;
+    justify-content: space-between;
+}
+
+#text{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    color: #FFFF;
+    font-size: 20px;
+}
+
+
+
+
+
